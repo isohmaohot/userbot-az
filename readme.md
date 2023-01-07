@@ -3,9 +3,7 @@
 Azka UserBot Telegram terbuat library tdlib, bot ini lebih cepat dari pada bot api support download / upload file, bot ini khusus untuk pembelajaran saja jika ada kekurangan tambah sendiri ya! dan tolong gunakan dengan bijak!.
 
 # Hosting On Heroku
-[![Deploy To Heroku]
-(https://www.herokucdn.com/deploy/button.svg)
-](https://dashboard.heroku.com/new?template=https://github.com/isohmaohot/userbot-az.git#heroku-cdn)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/isohmaohot/userbot-az.git#heroku-cdn)
 
 ## Demo
 
