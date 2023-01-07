@@ -5,12 +5,10 @@ var client = {
     "phone_number": String(process.env.phone_number ?? "62812345678"),
     "admins_user_id": [],
     "version": {
-        "userbot": "v0.0.3 AzkaUserBot",
-        "developer": "@azkadev",
+        "userbot": "v0.0.3 userbot-az",
+        "developer": "scrt_av",
         "links": {
-            "github": "https://github.com/azkadev",
-            "youtube": "https://youtube.com",
-            "website": "https://azkadev.netlify.app"
+            "github": "https://github.com/isohmaohot",
         }
     }
 };

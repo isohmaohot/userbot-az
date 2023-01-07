@@ -1,5 +1,5 @@
 {
-  "name": "azkauserbot",
+  "name": "userbot-az",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
@@ -10,9 +10,9 @@
     "node": "16.13.0"
   },
   "keywords": [
-    "azkauserbot"
+    "userbot-az"
   ],
-  "author": "azkadev",
+  "author": "scrt_av",
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.7",
