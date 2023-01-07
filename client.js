@@ -6,7 +6,7 @@ var client = {
     "admins_user_id": [],
     "version": {
         "userbot": "v0.0.3 userbot-az",
-        "developer": "scrt_av",
+        "developer": "@scrt_av",
         "links": {
             "github": "https://github.com/isohmaohot",
         }

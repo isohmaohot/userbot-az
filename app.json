@@ -1,7 +1,6 @@
 {
   "name": "Telegram userbot bot node js example heroku",
   "description": "introducing a telegram userbot",
-  "logo":"",
   "keywords": [
     "telegram-bot",
     "telegram-bot-nodejs",
