@@ -16,7 +16,6 @@
   "license": "ISC",
   "dependencies": {
     "node-fetch": "^2.6.7",
-    "tdl-lib": "^0.0.79",
-    "tdlib-linux": "^0.0.4"
+    "tdl-lib": "^0.0.62"
   }
 }

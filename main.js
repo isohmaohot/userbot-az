@@ -1,11 +1,10 @@
 var { client } = require("./client");
 var { telegram } = require("tdl-lib");
-var path_tdl = require("tdlib-linux");
 var tg = new telegram(`./client/${client["bot_user_id"] ?? Date.now()}`, {
-    "pathTdLib": path_tdl
+    "pathTdLib": "./libtdjson.so"
 });
 var tg_user = new telegram(`./client/${client["phone_number"] ?? Date.now()}`, {
-    "pathTdLib": path_tdl
+    "pathTdLib": "./libtdjson.so"
 });
 var fs = require("node:fs/promises");
 var timer = require("node:timers");
